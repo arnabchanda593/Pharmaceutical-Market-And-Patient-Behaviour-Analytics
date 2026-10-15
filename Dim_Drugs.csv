@@ -1,0 +1,24 @@
+drug_id,drug_name,manufacturer,therapeutic_class,indication,drug_type,target_brand_flag,competitor_flag,launch_year,average_price,market_segment
+DRG001,Brand X,Innovex Pharma,Immunology,Rheumatoid Arthritis / Psoriatic Arthritis,Brand,TRUE,FALSE,2019,5200,Specialty
+DRG002,CompeteA,Rivalis Biotech,Immunology,Rheumatoid Arthritis / Psoriatic Arthritis,Brand,FALSE,TRUE,2017,4950,Specialty
+DRG003,CompeteB,MedCore Therapeutics,Immunology,Rheumatoid Arthritis / Crohn's Disease,Brand,FALSE,TRUE,2015,4800,Specialty
+DRG004,LegacyMed,Heritage Pharma,Immunology,Rheumatoid Arthritis (legacy),Brand,FALSE,FALSE,2009,3900,Specialty
+DRG005,Oncovex,Pinnacle Oncology,Oncology,Metastatic Breast Cancer,Brand,FALSE,FALSE,2020,9800,Specialty
+DRG006,Oncorival,Zenith Biotech,Oncology,Non-Small Cell Lung Cancer,Brand,FALSE,FALSE,2018,10200,Specialty
+DRG007,OncoGenerix,Apex Pharma,Oncology,Colorectal Cancer,Generic,FALSE,FALSE,2014,2100,Specialty
+DRG008,Glucotrol Advance,MetaCure Pharma,Diabetes,Type 2 Diabetes,Brand,FALSE,FALSE,2021,610,Primary Care
+DRG009,DiabetEase,Endocore Therapeutics,Diabetes,Type 2 Diabetes,Brand,FALSE,FALSE,2019,560,Primary Care
+DRG010,Metformin XR,Apex Pharma,Diabetes,Type 2 Diabetes,Generic,FALSE,FALSE,2005,35,Primary Care
+DRG011,CardioShield,VitalHeart Pharma,Cardiovascular,Hyperlipidemia / CV Risk Reduction,Brand,FALSE,FALSE,2020,480,Primary Care
+DRG012,Lipidex,Coronary Sciences,Cardiovascular,Hyperlipidemia,Brand,FALSE,FALSE,2017,420,Primary Care
+DRG013,Atorvastatin Generic,Apex Pharma,Cardiovascular,Hyperlipidemia,Generic,FALSE,FALSE,2004,18,Primary Care
+DRG014,BreathEasy,Pulmona Therapeutics,Respiratory,COPD,Brand,FALSE,FALSE,2020,390,Primary Care
+DRG015,AirFlow Advance,Respira Biotech,Respiratory,Asthma,Brand,FALSE,FALSE,2018,350,Primary Care
+DRG016,Albuterol Generic,Apex Pharma,Respiratory,Asthma / COPD Rescue,Generic,FALSE,FALSE,2003,25,Primary Care
+DRG017,NeuroCalm,CNS Dynamics,Neurology,Epilepsy,Brand,FALSE,FALSE,2019,720,Specialty
+DRG018,Neurexa,Synaptic Pharma,Neurology,Migraine Prevention,Brand,FALSE,FALSE,2021,690,Specialty
+DRG019,Levetiracetam Generic,Apex Pharma,Neurology,Epilepsy,Generic,FALSE,FALSE,2008,40,Specialty
+DRG020,GastroRelief,DigestiveCare Pharma,Gastroenterology,Ulcerative Colitis,Brand,FALSE,FALSE,2020,3100,Specialty
+DRG021,GastroShield,Zenith Biotech,Gastroenterology,Crohn's Disease,Brand,FALSE,FALSE,2016,2950,Specialty
+DRG022,InfectoClear,BioShield Pharma,Infectious Diseases,Complicated Skin/Skin-Structure Infection,Brand,FALSE,FALSE,2019,610,Specialty
+DRG023,AntiViraMax,Pathogen Dynamics,Infectious Diseases,Chronic Hepatitis C,Brand,FALSE,FALSE,2017,8400,Specialty

@@ -1,0 +1,11 @@
+territory_id,region_name,sales_district
+TER001,Northeast,NE-District 1
+TER002,Northeast,NE-District 2
+TER003,Southeast,SE-District 1
+TER004,Southeast,SE-District 2
+TER005,Midwest,MW-District 1
+TER006,Midwest,MW-District 2
+TER007,Southwest,SW-District 1
+TER008,Southwest,SW-District 2
+TER009,West,W-District 1
+TER010,West,W-District 2

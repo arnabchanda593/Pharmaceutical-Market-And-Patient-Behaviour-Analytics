@@ -1,0 +1,417 @@
+doctor_id,doctor_name,specialty,tier_level,territory_id
+DOC0001,Dr. Kenneth Davis,Dermatology,Tier 2,TER005
+DOC0002,Dr. Mary Moore,Primary Care,Tier 3,TER010
+DOC0003,Dr. Jessica Anderson,Immunology,Tier 1,TER009
+DOC0004,Dr. David Miller,Gastroenterology,Tier 2,TER006
+DOC0005,Dr. Amanda Wright,Rheumatology,Tier 3,TER001
+DOC0006,Dr. Jennifer Nguyen,Rheumatology,Tier 3,TER001
+DOC0007,Dr. Margaret Williams,Rheumatology,Tier 3,TER002
+DOC0008,Dr. Mary Garcia,Immunology,Tier 3,TER009
+DOC0009,Dr. Susan Anderson,Gastroenterology,Tier 2,TER003
+DOC0010,Dr. Steven Hill,Immunology,Tier 2,TER001
+DOC0011,Dr. Mary Scott,Rheumatology,Tier 3,TER005
+DOC0012,Dr. Richard Wright,Primary Care,Tier 3,TER007
+DOC0013,Dr. Anthony Anderson,Immunology,Tier 3,TER006
+DOC0014,Dr. Mark Nguyen,Rheumatology,Tier 3,TER001
+DOC0015,Dr. Sarah Smith,Rheumatology,Tier 2,TER005
+DOC0016,Dr. Timothy Hernandez,Rheumatology,Tier 2,TER005
+DOC0017,Dr. Brian Ramirez,Dermatology,Tier 3,TER006
+DOC0018,Dr. Nancy Moore,Gastroenterology,Tier 2,TER003
+DOC0019,Dr. Elizabeth Wilson,Dermatology,Tier 3,TER005
+DOC0020,Dr. Timothy Perez,Rheumatology,Tier 3,TER007
+DOC0021,Dr. Michael Garcia,Gastroenterology,Tier 3,TER005
+DOC0022,Dr. Matthew Miller,Rheumatology,Tier 2,TER005
+DOC0023,Dr. Daniel Thompson,Rheumatology,Tier 2,TER005
+DOC0024,Dr. Joshua Taylor,Dermatology,Tier 1,TER010
+DOC0025,Dr. Robert Robinson,Gastroenterology,Tier 2,TER010
+DOC0026,Dr. Paul Davis,Immunology,Tier 1,TER003
+DOC0027,Dr. Matthew Garcia,Rheumatology,Tier 2,TER001
+DOC0028,Dr. Emily Jackson,Gastroenterology,Tier 2,TER005
+DOC0029,Dr. Kenneth Flores,Gastroenterology,Tier 2,TER009
+DOC0030,Dr. Lisa Torres,Rheumatology,Tier 2,TER001
+DOC0031,Dr. Richard Jones,Gastroenterology,Tier 1,TER003
+DOC0032,Dr. Robert Anderson,Rheumatology,Tier 1,TER004
+DOC0033,Dr. Stephanie Jackson,Rheumatology,Tier 3,TER001
+DOC0034,Dr. Jennifer Anderson,Primary Care,Tier 2,TER001
+DOC0035,Dr. Michael Harris,Primary Care,Tier 1,TER008
+DOC0036,Dr. Sarah Robinson,Immunology,Tier 2,TER002
+DOC0037,Dr. Kenneth White,Dermatology,Tier 3,TER008
+DOC0038,Dr. William White,Rheumatology,Tier 2,TER007
+DOC0039,Dr. Daniel Wilson,Immunology,Tier 2,TER010
+DOC0040,Dr. Kevin Moore,Dermatology,Tier 1,TER010
+DOC0041,Dr. Brian Jones,Rheumatology,Tier 1,TER002
+DOC0042,Dr. Joshua Hernandez,Gastroenterology,Tier 2,TER006
+DOC0043,Dr. Paul Thomas,Rheumatology,Tier 2,TER006
+DOC0044,Dr. William Robinson,Primary Care,Tier 2,TER003
+DOC0045,Dr. Matthew Moore,Rheumatology,Tier 3,TER002
+DOC0046,Dr. Kenneth Scott,Immunology,Tier 3,TER001
+DOC0047,Dr. Joseph Lee,Dermatology,Tier 2,TER006
+DOC0048,Dr. Stephanie Brown,Gastroenterology,Tier 2,TER005
+DOC0049,Dr. Joseph Williams,Gastroenterology,Tier 3,TER009
+DOC0050,Dr. Christopher Sanchez,Rheumatology,Tier 2,TER001
+DOC0051,Dr. Sarah Jones,Primary Care,Tier 2,TER007
+DOC0052,Dr. Susan Torres,Immunology,Tier 1,TER005
+DOC0053,Dr. Melissa Lee,Primary Care,Tier 1,TER005
+DOC0054,Dr. Susan Young,Immunology,Tier 3,TER002
+DOC0055,Dr. Betty Robinson,Gastroenterology,Tier 3,TER003
+DOC0056,Dr. Elizabeth Taylor,Primary Care,Tier 3,TER007
+DOC0057,Dr. David Thomas,Rheumatology,Tier 2,TER006
+DOC0058,Dr. Deborah Scott,Rheumatology,Tier 1,TER002
+DOC0059,Dr. Paul Taylor,Rheumatology,Tier 1,TER006
+DOC0060,Dr. Deborah Nguyen,Dermatology,Tier 2,TER002
+DOC0061,Dr. Margaret Nguyen,Dermatology,Tier 2,TER002
+DOC0062,Dr. Betty White,Rheumatology,Tier 3,TER002
+DOC0063,Dr. Joseph Rodriguez,Immunology,Tier 3,TER003
+DOC0064,Dr. Steven Young,Dermatology,Tier 2,TER002
+DOC0065,Dr. Jennifer Brown,Rheumatology,Tier 3,TER004
+DOC0066,Dr. Linda Martinez,Gastroenterology,Tier 3,TER009
+DOC0067,Dr. Kenneth Hernandez,Rheumatology,Tier 2,TER006
+DOC0068,Dr. Amanda Ramirez,Immunology,Tier 2,TER001
+DOC0069,Dr. Joshua Jones,Rheumatology,Tier 2,TER008
+DOC0070,Dr. Matthew Harris,Primary Care,Tier 2,TER007
+DOC0071,Dr. Joshua Robinson,Immunology,Tier 2,TER010
+DOC0072,Dr. Kimberly Taylor,Rheumatology,Tier 3,TER003
+DOC0073,Dr. Emily Smith,Rheumatology,Tier 1,TER001
+DOC0074,Dr. Amanda Davis,Immunology,Tier 1,TER005
+DOC0075,Dr. Amanda Wright,Immunology,Tier 1,TER004
+DOC0076,Dr. Timothy Moore,Immunology,Tier 1,TER010
+DOC0077,Dr. Stephanie Perez,Immunology,Tier 3,TER008
+DOC0078,Dr. Linda Jackson,Rheumatology,Tier 3,TER001
+DOC0079,Dr. Margaret Hernandez,Dermatology,Tier 2,TER010
+DOC0080,Dr. Sandra Smith,Rheumatology,Tier 1,TER001
+DOC0081,Dr. George Taylor,Immunology,Tier 2,TER004
+DOC0082,Dr. Steven Lopez,Gastroenterology,Tier 2,TER008
+DOC0083,Dr. Steven Miller,Dermatology,Tier 1,TER005
+DOC0084,Dr. Kenneth Martin,Rheumatology,Tier 2,TER002
+DOC0085,Dr. Kenneth Allen,Dermatology,Tier 2,TER006
+DOC0086,Dr. Joshua Gonzalez,Dermatology,Tier 2,TER005
+DOC0087,Dr. Elizabeth White,Immunology,Tier 2,TER002
+DOC0088,Dr. Timothy Hernandez,Gastroenterology,Tier 1,TER003
+DOC0089,Dr. Paul King,Immunology,Tier 2,TER009
+DOC0090,Dr. James Hill,Gastroenterology,Tier 2,TER007
+DOC0091,Dr. Christopher Young,Rheumatology,Tier 2,TER007
+DOC0092,Dr. Mary Davis,Immunology,Tier 3,TER006
+DOC0093,Dr. Lisa Martin,Immunology,Tier 3,TER008
+DOC0094,Dr. Jessica Brown,Gastroenterology,Tier 1,TER004
+DOC0095,Dr. Jessica Torres,Immunology,Tier 1,TER008
+DOC0096,Dr. Jennifer Garcia,Gastroenterology,Tier 2,TER004
+DOC0097,Dr. George Young,Gastroenterology,Tier 1,TER008
+DOC0098,Dr. John Wright,Dermatology,Tier 2,TER009
+DOC0099,Dr. Stephanie Rodriguez,Rheumatology,Tier 3,TER003
+DOC0100,Dr. David Walker,Rheumatology,Tier 2,TER003
+DOC0101,Dr. Emily Hernandez,Rheumatology,Tier 2,TER002
+DOC0102,Dr. Thomas King,Gastroenterology,Tier 2,TER010
+DOC0103,Dr. Joshua Ramirez,Dermatology,Tier 2,TER003
+DOC0104,Dr. Susan Wright,Gastroenterology,Tier 2,TER003
+DOC0105,Dr. Timothy Gonzalez,Primary Care,Tier 3,TER005
+DOC0106,Dr. Melissa Martin,Rheumatology,Tier 2,TER005
+DOC0107,Dr. Betty White,Dermatology,Tier 3,TER002
+DOC0108,Dr. Mark King,Immunology,Tier 3,TER010
+DOC0109,Dr. Mark Davis,Rheumatology,Tier 1,TER006
+DOC0110,Dr. Jessica Anderson,Rheumatology,Tier 1,TER005
+DOC0111,Dr. John Perez,Rheumatology,Tier 1,TER006
+DOC0112,Dr. Mary Nguyen,Rheumatology,Tier 1,TER001
+DOC0113,Dr. Emily Anderson,Primary Care,Tier 1,TER005
+DOC0114,Dr. Donna Anderson,Immunology,Tier 3,TER009
+DOC0115,Dr. James Jones,Gastroenterology,Tier 1,TER010
+DOC0116,Dr. Melissa Brown,Immunology,Tier 2,TER002
+DOC0117,Dr. Joseph Jones,Immunology,Tier 3,TER001
+DOC0118,Dr. Robert Perez,Rheumatology,Tier 1,TER010
+DOC0119,Dr. John Allen,Immunology,Tier 3,TER009
+DOC0120,Dr. Jessica Moore,Gastroenterology,Tier 2,TER010
+DOC0121,Dr. Kevin Young,Immunology,Tier 1,TER009
+DOC0122,Dr. Susan Wright,Immunology,Tier 3,TER009
+DOC0123,Dr. David Torres,Dermatology,Tier 2,TER006
+DOC0124,Dr. Andrew Walker,Rheumatology,Tier 3,TER008
+DOC0125,Dr. Jessica Walker,Rheumatology,Tier 3,TER001
+DOC0126,Dr. Anthony Gonzalez,Dermatology,Tier 3,TER010
+DOC0127,Dr. Michael Miller,Immunology,Tier 2,TER004
+DOC0128,Dr. Kevin Ramirez,Immunology,Tier 1,TER001
+DOC0129,Dr. Daniel Ramirez,Rheumatology,Tier 3,TER008
+DOC0130,Dr. Anthony Robinson,Gastroenterology,Tier 3,TER001
+DOC0131,Dr. George Brown,Dermatology,Tier 3,TER003
+DOC0132,Dr. Amanda Miller,Rheumatology,Tier 2,TER004
+DOC0133,Dr. Patricia Sanchez,Rheumatology,Tier 2,TER008
+DOC0134,Dr. George Perez,Dermatology,Tier 3,TER006
+DOC0135,Dr. Michael Thomas,Primary Care,Tier 2,TER010
+DOC0136,Dr. Richard Gonzalez,Dermatology,Tier 3,TER007
+DOC0137,Dr. Paul Lewis,Gastroenterology,Tier 3,TER008
+DOC0138,Dr. David Ramirez,Immunology,Tier 2,TER002
+DOC0139,Dr. Barbara Moore,Dermatology,Tier 3,TER010
+DOC0140,Dr. Sandra Thomas,Primary Care,Tier 3,TER008
+DOC0141,Dr. John Lewis,Primary Care,Tier 1,TER003
+DOC0142,Dr. Emily Miller,Rheumatology,Tier 3,TER007
+DOC0143,Dr. Patricia Wright,Gastroenterology,Tier 2,TER003
+DOC0144,Dr. James Garcia,Dermatology,Tier 3,TER007
+DOC0145,Dr. Timothy Thomas,Rheumatology,Tier 2,TER002
+DOC0146,Dr. William Clark,Rheumatology,Tier 3,TER010
+DOC0147,Dr. Ashley Walker,Gastroenterology,Tier 2,TER006
+DOC0148,Dr. Susan Sanchez,Gastroenterology,Tier 1,TER003
+DOC0149,Dr. Patricia Hernandez,Rheumatology,Tier 3,TER003
+DOC0150,Dr. Matthew Smith,Rheumatology,Tier 1,TER009
+DOC0151,Dr. Matthew Taylor,Primary Care,Tier 2,TER007
+DOC0152,Dr. Sandra Jackson,Rheumatology,Tier 3,TER005
+DOC0153,Dr. Margaret Scott,Rheumatology,Tier 3,TER010
+DOC0154,Dr. Kevin Young,Gastroenterology,Tier 2,TER007
+DOC0155,Dr. Elizabeth Gonzalez,Primary Care,Tier 2,TER009
+DOC0156,Dr. Charles Wilson,Rheumatology,Tier 2,TER001
+DOC0157,Dr. Patricia Nguyen,Immunology,Tier 2,TER007
+DOC0158,Dr. Deborah Wright,Immunology,Tier 2,TER006
+DOC0159,Dr. Patricia Lee,Rheumatology,Tier 3,TER010
+DOC0160,Dr. Patricia Brown,Immunology,Tier 3,TER009
+DOC0161,Dr. Donna Walker,Dermatology,Tier 3,TER001
+DOC0162,Dr. Steven King,Gastroenterology,Tier 3,TER004
+DOC0163,Dr. William Brown,Gastroenterology,Tier 1,TER009
+DOC0164,Dr. Steven Garcia,Gastroenterology,Tier 2,TER004
+DOC0165,Dr. Barbara Jones,Rheumatology,Tier 1,TER010
+DOC0166,Dr. Joshua Jones,Immunology,Tier 2,TER003
+DOC0167,Dr. Amanda Thomas,Dermatology,Tier 2,TER009
+DOC0168,Dr. Betty Davis,Rheumatology,Tier 3,TER002
+DOC0169,Dr. Andrew Thomas,Rheumatology,Tier 2,TER004
+DOC0170,Dr. Donna Hill,Gastroenterology,Tier 1,TER006
+DOC0171,Dr. Robert Flores,Immunology,Tier 1,TER002
+DOC0172,Dr. Jennifer Clark,Rheumatology,Tier 3,TER008
+DOC0173,Dr. Kevin Nguyen,Gastroenterology,Tier 2,TER008
+DOC0174,Dr. Andrew King,Rheumatology,Tier 1,TER001
+DOC0175,Dr. Christopher Taylor,Gastroenterology,Tier 1,TER003
+DOC0176,Dr. Susan Lee,Rheumatology,Tier 3,TER010
+DOC0177,Dr. Jessica Taylor,Immunology,Tier 1,TER009
+DOC0178,Dr. Betty Rodriguez,Dermatology,Tier 3,TER005
+DOC0179,Dr. Kevin Martin,Primary Care,Tier 3,TER006
+DOC0180,Dr. Sandra Lee,Rheumatology,Tier 1,TER004
+DOC0181,Dr. Timothy Jones,Dermatology,Tier 1,TER010
+DOC0182,Dr. James Robinson,Rheumatology,Tier 3,TER002
+DOC0183,Dr. Michelle Torres,Primary Care,Tier 2,TER008
+DOC0184,Dr. Michael Jones,Immunology,Tier 2,TER006
+DOC0185,Dr. Paul Wilson,Rheumatology,Tier 3,TER005
+DOC0186,Dr. Steven Taylor,Immunology,Tier 3,TER009
+DOC0187,Dr. David Thompson,Immunology,Tier 3,TER001
+DOC0188,Dr. John Thomas,Gastroenterology,Tier 3,TER005
+DOC0189,Dr. Lisa Jackson,Gastroenterology,Tier 2,TER006
+DOC0190,Dr. William Lewis,Rheumatology,Tier 1,TER005
+DOC0191,Dr. Paul Martin,Rheumatology,Tier 3,TER006
+DOC0192,Dr. Michelle King,Immunology,Tier 2,TER006
+DOC0193,Dr. James Scott,Primary Care,Tier 2,TER007
+DOC0194,Dr. Karen Miller,Gastroenterology,Tier 3,TER004
+DOC0195,Dr. David Taylor,Dermatology,Tier 1,TER008
+DOC0196,Dr. Linda Miller,Dermatology,Tier 2,TER007
+DOC0197,Dr. Deborah Scott,Immunology,Tier 1,TER009
+DOC0198,Dr. Elizabeth Moore,Immunology,Tier 2,TER007
+DOC0199,Dr. Charles Hill,Immunology,Tier 1,TER003
+DOC0200,Dr. Susan Perez,Immunology,Tier 1,TER003
+DOC0201,Dr. Susan Taylor,Gastroenterology,Tier 1,TER008
+DOC0202,Dr. Steven Young,Rheumatology,Tier 2,TER005
+DOC0203,Dr. Thomas Brown,Rheumatology,Tier 3,TER004
+DOC0204,Dr. Jennifer Ramirez,Immunology,Tier 2,TER008
+DOC0205,Dr. Sarah Williams,Gastroenterology,Tier 3,TER006
+DOC0206,Dr. James Perez,Rheumatology,Tier 2,TER002
+DOC0207,Dr. Stephanie Rodriguez,Rheumatology,Tier 2,TER004
+DOC0208,Dr. Kenneth Taylor,Immunology,Tier 3,TER004
+DOC0209,Dr. William Lewis,Rheumatology,Tier 2,TER006
+DOC0210,Dr. Emily Ramirez,Rheumatology,Tier 3,TER006
+DOC0211,Dr. Emily Smith,Gastroenterology,Tier 1,TER001
+DOC0212,Dr. Linda Jones,Immunology,Tier 3,TER008
+DOC0213,Dr. Brian Martinez,Immunology,Tier 1,TER006
+DOC0214,Dr. Paul Williams,Rheumatology,Tier 3,TER003
+DOC0215,Dr. Lisa Nguyen,Immunology,Tier 2,TER009
+DOC0216,Dr. Emily Martinez,Rheumatology,Tier 3,TER002
+DOC0217,Dr. Margaret Rodriguez,Dermatology,Tier 1,TER008
+DOC0218,Dr. Robert Martin,Immunology,Tier 2,TER010
+DOC0219,Dr. Lisa Williams,Gastroenterology,Tier 3,TER003
+DOC0220,Dr. Daniel Wilson,Immunology,Tier 2,TER005
+DOC0221,Dr. Amanda Thomas,Immunology,Tier 2,TER006
+DOC0222,Dr. Kevin Miller,Gastroenterology,Tier 3,TER010
+DOC0223,Dr. Daniel Scott,Rheumatology,Tier 2,TER006
+DOC0224,Dr. Anthony Flores,Dermatology,Tier 2,TER004
+DOC0225,Dr. Deborah Martinez,Rheumatology,Tier 2,TER003
+DOC0226,Dr. Jessica Hernandez,Rheumatology,Tier 3,TER004
+DOC0227,Dr. Barbara Clark,Primary Care,Tier 1,TER001
+DOC0228,Dr. Mary Lopez,Dermatology,Tier 2,TER004
+DOC0229,Dr. Deborah Perez,Immunology,Tier 3,TER001
+DOC0230,Dr. Anthony Thomas,Gastroenterology,Tier 3,TER001
+DOC0231,Dr. Sarah Hernandez,Immunology,Tier 2,TER010
+DOC0232,Dr. Brian Miller,Gastroenterology,Tier 2,TER006
+DOC0233,Dr. Matthew Williams,Gastroenterology,Tier 2,TER005
+DOC0234,Dr. Donald Anderson,Gastroenterology,Tier 1,TER004
+DOC0235,Dr. Richard Robinson,Rheumatology,Tier 2,TER003
+DOC0236,Dr. Daniel Martin,Immunology,Tier 2,TER001
+DOC0237,Dr. Joseph Anderson,Rheumatology,Tier 2,TER006
+DOC0238,Dr. Mary Gonzalez,Rheumatology,Tier 1,TER002
+DOC0239,Dr. Betty Perez,Gastroenterology,Tier 3,TER008
+DOC0240,Dr. Sarah Jones,Rheumatology,Tier 3,TER010
+DOC0241,Dr. Stephanie Moore,Primary Care,Tier 3,TER005
+DOC0242,Dr. Daniel Allen,Primary Care,Tier 2,TER007
+DOC0243,Dr. Betty Wright,Primary Care,Tier 2,TER010
+DOC0244,Dr. Nancy Johnson,Dermatology,Tier 3,TER002
+DOC0245,Dr. Linda Taylor,Rheumatology,Tier 3,TER008
+DOC0246,Dr. Barbara Nguyen,Primary Care,Tier 1,TER002
+DOC0247,Dr. Thomas Williams,Dermatology,Tier 3,TER004
+DOC0248,Dr. Michael Hill,Primary Care,Tier 3,TER001
+DOC0249,Dr. Margaret Thompson,Primary Care,Tier 3,TER005
+DOC0250,Dr. George Lee,Immunology,Tier 3,TER009
+DOC0251,Dr. Margaret Hill,Rheumatology,Tier 2,TER001
+DOC0252,Dr. Steven Davis,Dermatology,Tier 2,TER009
+DOC0253,Dr. Matthew Torres,Immunology,Tier 3,TER008
+DOC0254,Dr. Richard Taylor,Dermatology,Tier 3,TER006
+DOC0255,Dr. Robert Ramirez,Rheumatology,Tier 1,TER007
+DOC0256,Dr. James King,Gastroenterology,Tier 1,TER003
+DOC0257,Dr. Paul Gonzalez,Primary Care,Tier 2,TER001
+DOC0258,Dr. Lisa Ramirez,Immunology,Tier 3,TER005
+DOC0259,Dr. John Perez,Gastroenterology,Tier 3,TER002
+DOC0260,Dr. Michelle Lee,Rheumatology,Tier 1,TER005
+DOC0261,Dr. William Hill,Oncology,Tier 3,TER009
+DOC0262,Dr. William Wright,Oncology,Tier 2,TER010
+DOC0263,Dr. Gary Hill,Oncology,Tier 1,TER002
+DOC0264,Dr. Laura Thompson,Oncology,Tier 2,TER010
+DOC0265,Dr. Jose Allen,Oncology,Tier 1,TER005
+DOC0266,Dr. George Lopez,Oncology,Tier 3,TER001
+DOC0267,Dr. Carol Adams,Oncology,Tier 3,TER008
+DOC0268,Dr. Jason Moore,Oncology,Tier 1,TER009
+DOC0269,Dr. Anthony Hill,Oncology,Tier 2,TER005
+DOC0270,Dr. Brian Williams,Oncology,Tier 2,TER007
+DOC0271,Dr. Stephanie Nguyen,Oncology,Tier 1,TER004
+DOC0272,Dr. Deborah Jackson,Oncology,Tier 3,TER002
+DOC0273,Dr. George Miller,Oncology,Tier 3,TER003
+DOC0274,Dr. Margaret King,Oncology,Tier 3,TER009
+DOC0275,Dr. Emily Scott,Oncology,Tier 2,TER009
+DOC0276,Dr. Kenneth Green,Oncology,Tier 2,TER003
+DOC0277,Dr. Elizabeth Wright,Oncology,Tier 2,TER002
+DOC0278,Dr. Jeffrey Smith,Oncology,Tier 1,TER007
+DOC0279,Dr. Edward Scott,Oncology,Tier 1,TER005
+DOC0280,Dr. Nancy Lewis,Oncology,Tier 2,TER001
+DOC0281,Dr. Kenneth King,Oncology,Tier 3,TER006
+DOC0282,Dr. David Hill,Oncology,Tier 3,TER006
+DOC0283,Dr. William Ramirez,Oncology,Tier 2,TER001
+DOC0284,Dr. Christopher Perez,Oncology,Tier 2,TER005
+DOC0285,Dr. Angela Nelson,Oncology,Tier 2,TER001
+DOC0286,Dr. Carol Anderson,Oncology,Tier 2,TER007
+DOC0287,Dr. Joseph Ramirez,Endocrinology,Tier 1,TER007
+DOC0288,Dr. Steven Lee,Endocrinology,Tier 1,TER002
+DOC0289,Dr. Christopher Johnson,Endocrinology,Tier 2,TER008
+DOC0290,Dr. Kevin White,Endocrinology,Tier 2,TER005
+DOC0291,Dr. Rebecca Davis,Endocrinology,Tier 3,TER005
+DOC0292,Dr. Charles Martin,Endocrinology,Tier 2,TER006
+DOC0293,Dr. Kimberly Jackson,Endocrinology,Tier 2,TER001
+DOC0294,Dr. Christopher Carter,Endocrinology,Tier 1,TER007
+DOC0295,Dr. George Wilson,Endocrinology,Tier 1,TER008
+DOC0296,Dr. Barbara Scott,Endocrinology,Tier 3,TER003
+DOC0297,Dr. David Jones,Endocrinology,Tier 1,TER005
+DOC0298,Dr. Jason Hernandez,Endocrinology,Tier 2,TER006
+DOC0299,Dr. George Nelson,Endocrinology,Tier 3,TER008
+DOC0300,Dr. Michelle Perez,Endocrinology,Tier 3,TER006
+DOC0301,Dr. William Allen,Endocrinology,Tier 2,TER005
+DOC0302,Dr. Larry Williams,Endocrinology,Tier 3,TER004
+DOC0303,Dr. Michelle Davis,Endocrinology,Tier 2,TER006
+DOC0304,Dr. Larry Rodriguez,Endocrinology,Tier 1,TER006
+DOC0305,Dr. Kenneth Moore,Endocrinology,Tier 3,TER001
+DOC0306,Dr. Charles Mitchell,Endocrinology,Tier 3,TER008
+DOC0307,Dr. Susan Harris,Endocrinology,Tier 3,TER010
+DOC0308,Dr. Charles Lewis,Endocrinology,Tier 3,TER003
+DOC0309,Dr. Sharon Taylor,Endocrinology,Tier 3,TER005
+DOC0310,Dr. Jessica Johnson,Endocrinology,Tier 1,TER010
+DOC0311,Dr. Sarah Ramirez,Endocrinology,Tier 2,TER007
+DOC0312,Dr. Elizabeth Allen,Endocrinology,Tier 3,TER008
+DOC0313,Dr. Karen Garcia,Endocrinology,Tier 1,TER003
+DOC0314,Dr. Elizabeth Johnson,Endocrinology,Tier 3,TER004
+DOC0315,Dr. Sarah Adams,Endocrinology,Tier 1,TER003
+DOC0316,Dr. Jennifer Mitchell,Endocrinology,Tier 2,TER005
+DOC0317,Dr. Deborah Gonzalez,Cardiology,Tier 1,TER002
+DOC0318,Dr. Jessica Perez,Cardiology,Tier 1,TER009
+DOC0319,Dr. William Nguyen,Cardiology,Tier 1,TER009
+DOC0320,Dr. Richard Sanchez,Cardiology,Tier 2,TER008
+DOC0321,Dr. Christopher King,Cardiology,Tier 2,TER001
+DOC0322,Dr. Gary Nguyen,Cardiology,Tier 2,TER010
+DOC0323,Dr. Rebecca Gonzalez,Cardiology,Tier 2,TER009
+DOC0324,Dr. Melissa Davis,Cardiology,Tier 2,TER006
+DOC0325,Dr. Matthew Baker,Cardiology,Tier 2,TER003
+DOC0326,Dr. Angela Hill,Cardiology,Tier 1,TER005
+DOC0327,Dr. Rebecca Smith,Cardiology,Tier 2,TER002
+DOC0328,Dr. Robert King,Cardiology,Tier 2,TER005
+DOC0329,Dr. Stephanie Wright,Cardiology,Tier 3,TER002
+DOC0330,Dr. Carol Green,Cardiology,Tier 3,TER008
+DOC0331,Dr. Frank Miller,Cardiology,Tier 2,TER010
+DOC0332,Dr. David Martin,Cardiology,Tier 2,TER005
+DOC0333,Dr. Nancy King,Cardiology,Tier 1,TER003
+DOC0334,Dr. Sharon Campbell,Cardiology,Tier 2,TER006
+DOC0335,Dr. Thomas Young,Cardiology,Tier 2,TER002
+DOC0336,Dr. Gary Lee,Cardiology,Tier 1,TER006
+DOC0337,Dr. Mary Campbell,Cardiology,Tier 1,TER005
+DOC0338,Dr. Donna Flores,Cardiology,Tier 2,TER001
+DOC0339,Dr. Jessica Adams,Cardiology,Tier 1,TER003
+DOC0340,Dr. Christopher Clark,Cardiology,Tier 3,TER009
+DOC0341,Dr. Timothy Walker,Cardiology,Tier 3,TER004
+DOC0342,Dr. Richard Allen,Cardiology,Tier 1,TER005
+DOC0343,Dr. Lisa Gonzalez,Cardiology,Tier 2,TER008
+DOC0344,Dr. Laura Green,Cardiology,Tier 2,TER001
+DOC0345,Dr. Edward Robinson,Cardiology,Tier 2,TER009
+DOC0346,Dr. Karen Thomas,Cardiology,Tier 2,TER010
+DOC0347,Dr. Ashley Rodriguez,Cardiology,Tier 2,TER002
+DOC0348,Dr. George Garcia,Cardiology,Tier 2,TER001
+DOC0349,Dr. Patricia Rodriguez,Pulmonology,Tier 2,TER006
+DOC0350,Dr. Nancy Wright,Pulmonology,Tier 2,TER003
+DOC0351,Dr. Angela Sanchez,Pulmonology,Tier 1,TER009
+DOC0352,Dr. Betty Williams,Pulmonology,Tier 2,TER003
+DOC0353,Dr. Linda Gonzalez,Pulmonology,Tier 3,TER005
+DOC0354,Dr. Susan Williams,Pulmonology,Tier 2,TER006
+DOC0355,Dr. Melissa Garcia,Pulmonology,Tier 1,TER001
+DOC0356,Dr. Steven Campbell,Pulmonology,Tier 2,TER009
+DOC0357,Dr. Jeffrey Rivera,Pulmonology,Tier 1,TER008
+DOC0358,Dr. Sandra Hill,Pulmonology,Tier 3,TER008
+DOC0359,Dr. Gary Miller,Pulmonology,Tier 3,TER005
+DOC0360,Dr. Cynthia Nelson,Pulmonology,Tier 3,TER004
+DOC0361,Dr. Charles Lee,Pulmonology,Tier 2,TER004
+DOC0362,Dr. Nancy Jackson,Pulmonology,Tier 2,TER004
+DOC0363,Dr. Mary Wright,Pulmonology,Tier 2,TER010
+DOC0364,Dr. Anthony Rivera,Pulmonology,Tier 3,TER004
+DOC0365,Dr. George Clark,Pulmonology,Tier 1,TER007
+DOC0366,Dr. Jennifer Green,Pulmonology,Tier 3,TER006
+DOC0367,Dr. David Anderson,Pulmonology,Tier 3,TER002
+DOC0368,Dr. Ashley Wright,Pulmonology,Tier 1,TER002
+DOC0369,Dr. Sharon Walker,Pulmonology,Tier 2,TER008
+DOC0370,Dr. Sandra Jones,Pulmonology,Tier 1,TER002
+DOC0371,Dr. Sharon Mitchell,Pulmonology,Tier 1,TER006
+DOC0372,Dr. Angela Flores,Pulmonology,Tier 1,TER003
+DOC0373,Dr. Matthew Robinson,Pulmonology,Tier 2,TER006
+DOC0374,Dr. Mary Rodriguez,Pulmonology,Tier 3,TER006
+DOC0375,Dr. Edward White,Neurology,Tier 3,TER008
+DOC0376,Dr. Stephanie Flores,Neurology,Tier 3,TER006
+DOC0377,Dr. Thomas Campbell,Neurology,Tier 2,TER001
+DOC0378,Dr. Matthew Jones,Neurology,Tier 3,TER005
+DOC0379,Dr. Stephanie Hill,Neurology,Tier 3,TER004
+DOC0380,Dr. Gary Hall,Neurology,Tier 3,TER003
+DOC0381,Dr. Larry Jackson,Neurology,Tier 2,TER002
+DOC0382,Dr. Sharon Davis,Neurology,Tier 1,TER005
+DOC0383,Dr. Gary Martin,Neurology,Tier 3,TER006
+DOC0384,Dr. Rebecca Campbell,Neurology,Tier 1,TER005
+DOC0385,Dr. Thomas Jackson,Neurology,Tier 1,TER007
+DOC0386,Dr. Laura Mitchell,Neurology,Tier 2,TER009
+DOC0387,Dr. Amanda Young,Neurology,Tier 2,TER006
+DOC0388,Dr. Robert Wright,Neurology,Tier 2,TER005
+DOC0389,Dr. Matthew Adams,Neurology,Tier 2,TER005
+DOC0390,Dr. Sarah Thompson,Neurology,Tier 2,TER010
+DOC0391,Dr. Gary Flores,Neurology,Tier 2,TER010
+DOC0392,Dr. John Baker,Neurology,Tier 2,TER009
+DOC0393,Dr. John Garcia,Neurology,Tier 1,TER007
+DOC0394,Dr. Thomas Allen,Neurology,Tier 2,TER010
+DOC0395,Dr. Carol Johnson,Neurology,Tier 2,TER002
+DOC0396,Dr. Carol Hill,Neurology,Tier 2,TER010
+DOC0397,Dr. Jessica Allen,Neurology,Tier 2,TER001
+DOC0398,Dr. Charles Williams,Neurology,Tier 3,TER008
+DOC0399,Dr. Sharon Lopez,Neurology,Tier 1,TER001
+DOC0400,Dr. Anthony Green,Neurology,Tier 1,TER008
+DOC0401,Dr. Laura Wright,Infectious Disease,Tier 1,TER001
+DOC0402,Dr. George Hernandez,Infectious Disease,Tier 2,TER005
+DOC0403,Dr. Betty Nguyen,Infectious Disease,Tier 3,TER009
+DOC0404,Dr. Jeffrey Torres,Infectious Disease,Tier 2,TER003
+DOC0405,Dr. William Scott,Infectious Disease,Tier 1,TER006
+DOC0406,Dr. Nancy Williams,Infectious Disease,Tier 3,TER001
+DOC0407,Dr. Linda Hall,Infectious Disease,Tier 3,TER002
+DOC0408,Dr. Paul Jones,Infectious Disease,Tier 2,TER010
+DOC0409,Dr. Ashley Thompson,Infectious Disease,Tier 1,TER006
+DOC0410,Dr. Amanda Lewis,Infectious Disease,Tier 2,TER010
+DOC0411,Dr. Betty Thomas,Infectious Disease,Tier 3,TER007
+DOC0412,Dr. Barbara Allen,Infectious Disease,Tier 1,TER002
+DOC0413,Dr. George Sanchez,Infectious Disease,Tier 3,TER005
+DOC0414,Dr. Joseph Garcia,Infectious Disease,Tier 2,TER003
+DOC0415,Dr. William Thomas,Infectious Disease,Tier 3,TER006
+DOC0416,Dr. Cynthia Lee,Infectious Disease,Tier 3,TER002
